@@ -1,0 +1,36 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="main_tab_bottom">
+        <item name="android:textSize">@dimen/font_size_12</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:background">@drawable/home_btn_bg</item>
+        <item name="android:paddingTop">@dimen/bottom_tab_padding_up</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:button">@null</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:drawablePadding">@dimen/bottom_tab_padding_drawable</item>
+        <item name="android:layout_weight">1.0</item>
+        <item name="android:paddingBottom">@dimen/bottom_tab_padding_up</item>
+    </style>
+
+    <!-- spinner --><style name="spinner_style">
+    <item name="android:background">@drawable/spinner</item>
+    <item name="android:paddingLeft">5dip</item>
+</style>
+
+    <color name="black">#000000</color>
+    <color name="lightwhite">#ddd</color>
+    <color name="white">#fff</color>
+    <color name="red">#ff0000</color>
+    <color name="transparent">#00000000</color>
+    <color name="blue_light">#ff33b5e5</color>
+</resources>
+

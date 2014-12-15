@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="choiceConditionType">
+        <item>投资类型</item>
+        <item>银行</item>
+        <item>基金</item>
+        <item>宝类</item>
+        <item>p2p</item>
+    </string-array>
+    <string-array name="choiceConditionRate">
+        <item>收益率</item>
+        <item>0-3%</item>
+        <item>3-5%</item>
+        <item>5-10%</item>
+        <item>10-15%</item>
+        <item>15-20%</item>
+        <item>20%以上</item>
+    </string-array>
+    <string-array name="choiceConditionMoney">
+        <item>起始金额</item>
+        <item>0-5</item>
+        <item>5-10</item>
+        <item>10-50</item>
+        <item>50以上</item>
+    </string-array>
+    <string-array name="choiceConditionTime">
+        <item>投资周期</item>
+        <item>1个月</item>
+        <item>1-3个月</item>
+        <item>3-6个月</item>
+        <item>6-12个月</item>
+        <item>12个月以上</item>
+    </string-array>
+</resources>
